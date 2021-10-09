@@ -1,0 +1,7 @@
+name: HologramsPlus
+version: ${project.version}
+main: me.quared.hologramsplus.HologramsPlus
+api-version: 1.17
+prefix: Holograms
+authors: [ Quared ]
+description: Simple and feature-packed Holograms plugin with an advanced API.
