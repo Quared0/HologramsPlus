@@ -13,9 +13,12 @@ Maven:
 
 <dependencies>
 	<dependency>
-	    <groupId>com.github.User</groupId>
-	    <artifactId>Repo</artifactId>
-	    <version>Tag</version>
+	    <groupId>com.github.quared0</groupId>
+	    <artifactId>HologramsPlus</artifactId>
+	    <version>VERSION</version>
+		<scope>provided</scope>
 	</dependency>
 </dependencies>
 ```
+
+You will need to have added the HologramsPlus .jar file to your /plugins directory for it to load properly.
