@@ -20,5 +20,3 @@ Maven:
 	</dependency>
 </dependencies>
 ```
-
-You will need to have added the HologramsPlus .jar file to your /plugins directory for it to load properly.
