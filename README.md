@@ -13,9 +13,9 @@ Maven:
 
 <dependencies>
 	<dependency>
-	    <groupId>com.github.quared0</groupId>
-	    <artifactId>HologramsPlus</artifactId>
-	    <version>VERSION</version>
+		<groupId>com.github.quared0</groupId>
+		<artifactId>HologramsPlus</artifactId>
+		<version>VERSION</version>
 		<scope>provided</scope>
 	</dependency>
 </dependencies>
